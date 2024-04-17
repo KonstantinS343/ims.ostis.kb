@@ -12,14 +12,14 @@ lib_ui_menu_na_view_kb_extended
 	{		
 		lib_ui_menu_na_view_kb_base;
 		lib_ui_menu_na_view_kb_structure;
-		lib_ui_na_ontologies;
-		lib_ui_na_relations;
-		lib_ui_na_statements;
-		lib_ui_na_various_concepts;
+		//lib_ui_na_ontologies;
+		//lib_ui_na_relations;
+		//lib_ui_na_statements;
+		//lib_ui_na_various_concepts;
 		lib_ui_na_various_objects;
-		lib_ui_na_subject_domains;
+		//lib_ui_na_subject_domains;
 		lib_ui_menu_na_view_kb_semantic_square;
-		lib_ui_menu_na_view_kb_identifiers;
-		lib_component_ui_na_tasks
+		lib_ui_menu_na_view_kb_identifiers
+		//lib_component_ui_na_tasks
 	};;
 

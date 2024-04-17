@@ -6,16 +6,16 @@ ui_menu_na_view_kb_extended <- ui_user_command_class_noatom;
 {
 	ui_menu_na_view_kb_base;
 	ui_menu_na_view_kb_structure;
-	ui_na_ontologies;
-	ui_na_relations;
-	ui_na_statements;
-	ui_na_various_concepts;
+	//ui_na_ontologies;
+	//ui_na_relations;
+	//ui_na_statements;
+	//ui_na_various_concepts;
 	ui_na_various_objects;
-	ui_na_subject_domains;
+	//ui_na_subject_domains;
 	ui_menu_na_view_kb_semantic_square;
-	ui_menu_na_view_kb_pattern;
-	ui_menu_na_view_kb_identifiers;
-	ui_na_tasks
+	//ui_menu_na_view_kb_pattern;
+	ui_menu_na_view_kb_identifiers
+	//ui_na_tasks
 };
 
 <- rrel_key_sc_element:
